@@ -49,4 +49,4 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 2. Hitung pembagian IP dan Lakukan subnetting dengan menggunakan pohon tersebut untuk pembagian IP sesuai dengan kebutuhan masing-masing subnet yang ada. <br>
 ![Tree CIDR T6](https://user-images.githubusercontent.com/61286109/101823687-bc2d1300-3b5d-11eb-8ca1-b6790de6ad1d.png) <br>
 3. Dari pohon tersebut akan mendapat pembagian IP sebagai berikut. <br>
-![Pembagian Subnet](https://user-images.githubusercontent.com/61286109/101823363-3741f980-3b5d-11eb-9828-848e90f75940.PNG) <br>
+![Pembagian Subnet1](https://user-images.githubusercontent.com/61286109/101824064-470e0d80-3b5e-11eb-8ab4-60e4ee9b9059.PNG) <br>
