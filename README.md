@@ -34,3 +34,19 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 
 #### Routing
 ONGOING
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### PENYELESAIAN
+#### Pembagian IP
+- Menentukan jumlah subnet yang ada pada topologi <br>
+
+Terdapat 13 subnet di dalam topologi. <br>
+
+- Metode Classless <b>CIDR (Classless Inter Domain Routing)</b>
+1. Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakukan <i>labelling</i> netmask berdasarkan jumlah IP yang dibutuhkan. <br>
+![Labelling Netmask](https://user-images.githubusercontent.com/61286109/101823151-edf1aa00-3b5c-11eb-8ae1-e6922df3711a.PNG) <br>
+Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan netmask <b>/19</b> untuk memberikan pengalamatan IP pada subnet. <br>
+2. Hitung pembagian IP dan Lakukan subnetting dengan menggunakan pohon tersebut untuk pembagian IP sesuai dengan kebutuhan masing-masing subnet yang ada. <br>
+![Tree CIDR T6](https://user-images.githubusercontent.com/61286109/101823262-15487700-3b5d-11eb-90d0-5d127dc69de9.png) <br>
+3. Dari pohon tersebut akan mendapat pembagian IP sebagai berikut. <br>
+![Pembagian Subnet](https://user-images.githubusercontent.com/61286109/101823363-3741f980-3b5d-11eb-9828-848e90f75940.PNG) <br>
