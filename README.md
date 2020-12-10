@@ -36,8 +36,8 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 ONGOING
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### PENYELESAIAN
-#### Metode Classless CIDR (Classless Inter Domain Routing)
+### Metode Classless CIDR (Classless Inter Domain Routing)
+#### Pembagian IP
 - Menentukan subnet yang ada dalam topologi dan lakukan labelling netmask terhadap masing-masing subnet kemudian menggabungkan subnet-subnet sampain menjadi subnet besar. <br>
 ![Soal Shift Modul 4 CIDR](https://user-images.githubusercontent.com/61286109/101828554-4aa49300-3b64-11eb-9e4a-820dc2e9d676.PNG) <br>
 Hasil yang didapat adalah <b>Netmask /17</b> untuk subnet besar topologi diatas. <br> 
