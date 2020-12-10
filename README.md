@@ -38,9 +38,9 @@ ONGOING
 
 ### PENYELESAIAN
 #### Pembagian IP
-- Menentukan jumlah subnet yang ada pada topologi <br>
+- Menentukan subnet yang ada dalam topologi dan lakukan labelling netmask terhadap masing-masing subnet kemudian menggabungkan subnet-subnet sampain menjadi subnet besar. <br>
 ![Soal Shift Modul 4 CIDR](https://user-images.githubusercontent.com/61286109/101828554-4aa49300-3b64-11eb-9e4a-820dc2e9d676.PNG) <br>
-Terdapat 13 subnet di dalam topologi. <br>
+ Subnet besar dalam topologi di atas yaitu <b>/17</b><br>
 
 - Metode Classless <b>CIDR (Classless Inter Domain Routing)</b>
 1. Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakukan <i>labelling</i> netmask berdasarkan jumlah IP yang dibutuhkan. <br>
