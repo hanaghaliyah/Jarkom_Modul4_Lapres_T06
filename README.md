@@ -39,7 +39,7 @@ ONGOING
 ### PENYELESAIAN
 #### Pembagian IP
 - Menentukan jumlah subnet yang ada pada topologi <br>
-
+![Soal Shift Modul 4 CIDR](https://user-images.githubusercontent.com/61286109/101828554-4aa49300-3b64-11eb-9e4a-820dc2e9d676.PNG) <br>
 Terdapat 13 subnet di dalam topologi. <br>
 
 - Metode Classless <b>CIDR (Classless Inter Domain Routing)</b>
