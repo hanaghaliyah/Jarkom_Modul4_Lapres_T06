@@ -46,8 +46,8 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 3. Dari pohon tersebut akan mendapat pembagian IP sebagai berikut. <br>
 ![Pembagian Subnet1](https://user-images.githubusercontent.com/61286109/101958235-89eee480-3c35-11eb-9b36-d3a997064abb.PNG) <br>
 
-#### UML
-1. Pembuatan file `topologi.sh`.<br>
+#### Konfigurasi Pada Tiap UML
+1. Pertama, membuat file `topologi.sh`.<br>
 ![Konfigurasi UML T6](https://user-images.githubusercontent.com/61286109/101959345-bad01900-3c37-11eb-88c9-2474700139ee.PNG) <br>
 ![Konfigurasi2 UML T6](https://user-images.githubusercontent.com/61286109/101959482-fff44b00-3c37-11eb-9ccd-ff1f8017fc9a.PNG) <br>
 2. 
