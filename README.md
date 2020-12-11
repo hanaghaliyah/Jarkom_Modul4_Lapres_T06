@@ -44,4 +44,4 @@ Hasil yang didapat adalah <b>Netmask /17</b> untuk subnet besar topologi diatas.
 2. Pembagian IP dengan pohon berdasarkan penggabungan subnet yang telah dilakukan.. <br>
 ![Pohon CIDR T6](https://user-images.githubusercontent.com/61286109/101955077-ba338480-3c2f-11eb-84b7-700e1ab98671.png) <br>
 3. Dari pohon tersebut akan mendapat pembagian IP sebagai berikut. <br>
-![Pembagian Subnet1](https://user-images.githubusercontent.com/61286109/101824064-470e0d80-3b5e-11eb-8ab4-60e4ee9b9059.PNG) <br>
+![Pembagian Subnet1](https://user-images.githubusercontent.com/61286109/101958235-89eee480-3c35-11eb-9b36-d3a997064abb.PNG) <br>
