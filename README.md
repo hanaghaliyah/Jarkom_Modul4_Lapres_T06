@@ -42,6 +42,6 @@ ONGOING
 ![Soal Shift Modul 4 CIDR](https://user-images.githubusercontent.com/61286109/101828554-4aa49300-3b64-11eb-9e4a-820dc2e9d676.PNG) <br>
 Hasil yang didapat adalah <b>Netmask /17</b> untuk subnet besar topologi diatas. <br> 
 2. Pembagian IP dengan pohon berdasarkan penggabungan subnet yang telah dilakukan.. <br>
-![Tree CIDR T6](https://user-images.githubusercontent.com/61286109/101823687-bc2d1300-3b5d-11eb-8ca1-b6790de6ad1d.png) <br>
+![Pohon CIDR T6](https://user-images.githubusercontent.com/61286109/101955077-ba338480-3c2f-11eb-84b7-700e1ab98671.png) <br>
 3. Dari pohon tersebut akan mendapat pembagian IP sebagai berikut. <br>
 ![Pembagian Subnet1](https://user-images.githubusercontent.com/61286109/101824064-470e0d80-3b5e-11eb-8ab4-60e4ee9b9059.PNG) <br>
