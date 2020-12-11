@@ -39,7 +39,7 @@ ONGOING
 ### Metode Classless CIDR (Classless Inter Domain Routing)
 #### Pembagian IP
 1. Menentukan subnet yang ada dalam topologi dan lakukan labelling netmask terhadap masing-masing subnet kemudian menggabungkan subnet-subnet sampai menjadi subnet besar. <br>
-![Soal Shift Modul 4 CIDR](https://user-images.githubusercontent.com/61286109/101828554-4aa49300-3b64-11eb-9e4a-820dc2e9d676.PNG) <br>
+![Subnetting CIDR T6](https://user-images.githubusercontent.com/61286109/101955213-febf2000-3c2f-11eb-86a7-a62a38707eaf.PNG) <br>
 Hasil yang didapat adalah <b>Netmask /17</b> untuk subnet besar topologi diatas. <br> 
 2. Pembagian IP dengan pohon berdasarkan penggabungan subnet yang telah dilakukan.. <br>
 ![Pohon CIDR T6](https://user-images.githubusercontent.com/61286109/101955077-ba338480-3c2f-11eb-84b7-700e1ab98671.png) <br>
