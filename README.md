@@ -33,7 +33,6 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 ![pohon pembagian IP VLSM](https://user-images.githubusercontent.com/26424136/101984456-21931800-3cb4-11eb-8f6a-e3c72a7aa81c.png) <br>
 - Dari pohon tersebut akan mendapat pembagian IP sebagai berikut. <br>
 <img width="317" alt="vlsm 2" src="https://user-images.githubusercontent.com/26424136/101802833-79117680-3b42-11eb-9bc0-6e4380ee5f62.PNG"> <br>
-<br>
 
 #### Mengatur Interface pada CPT
 - Atur IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada pohon VLSM.
@@ -132,8 +131,6 @@ IPv4 Address 10.151.73.186 Subnet Mask 255.255.255.248 Default Gateway 10.151.73
 ```
 IPv4 Address 10.151.73.178 Subnet Mask 255.255.255.248 Default Gateway 10.151.73.177
 ```
-
-<br>
 
 #### Routing
 - Routing dilakukan pada menu <b>Config > Routing > Static</b> pada device <b>Router</b>. Lalu isi <i>Static Routes</i> dan tekan tombol Add
