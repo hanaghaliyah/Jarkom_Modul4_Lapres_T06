@@ -19,7 +19,7 @@ Keterangan: Bila di <b>CPT menggunakan VLSM</b>, maka di <b>UML menggunakan CIDR
 
 ## PENYELESAIAN
 ### CPT Menggunakan Metode Classless VLSM (Variable Length Subnet Masking)
-#### Pembagian IP
+#### Subnetting (Pembagian IP)
 - Menentukan jumlah subnet yang ada pada topologi <br>
 <img width="468" alt="topologi soal shift" src="https://user-images.githubusercontent.com/26424136/101800967-757cf000-3b40-11eb-9434-1f4587f9aced.PNG"> <br>
 Terdapat 13 subnet di dalam topologi. <br>
@@ -33,6 +33,11 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 ![pohon pembagian IP VLSM](https://user-images.githubusercontent.com/26424136/101984456-21931800-3cb4-11eb-8f6a-e3c72a7aa81c.png) <br>
 - Dari pohon tersebut akan mendapat pembagian IP sebagai berikut. <br>
 <img width="317" alt="vlsm 2" src="https://user-images.githubusercontent.com/26424136/101802833-79117680-3b42-11eb-9bc0-6e4380ee5f62.PNG"> <br>
+
+#### Mengatur Interface pada CPT
+- Atur IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada pohon VLSM.
+- Interface dapat diatur pada menu `Config > INTERFACE > “nama interface”` (contoh: FastEthernet0/0). Isi alamat IP dan subnet mask dari subnet interface tersebut. 
+<b>NB:</b> Untuk melihat arah port, dapat menghover device pada saat di <i>logic view</i>, atau dapat selalu diaktifkan di `Options > Preferences > Always Show Port Labels in Logical Workspace`
 
 #### Routing
 1. Pada Surabaya
