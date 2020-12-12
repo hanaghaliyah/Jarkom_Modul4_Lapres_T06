@@ -36,7 +36,7 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 
 #### Mengatur Interface pada CPT
 - Atur IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada pohon VLSM.
-- Interface dapat diatur pada menu `Config > INTERFACE > “nama interface”` (contoh: FastEthernet0/0). Isi alamat IP dan subnet mask dari subnet interface tersebut. 
+- Interface dapat diatur pada menu `Config > INTERFACE > “nama interface”` (contoh: FastEthernet0/0). Isi alamat IP dan subnet mask dari subnet interface tersebut. <br>
 <b>NB:</b> Untuk melihat arah port, dapat menghover device pada saat di <i>logic view</i>, atau dapat selalu diaktifkan di `Options > Preferences > Always Show Port Labels in Logical Workspace`
 
 #### Routing
