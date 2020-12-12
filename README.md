@@ -53,6 +53,21 @@ IPv4 Address 192.168.0.2 Subnet Mask 255.255.255.252        //PASURUAN yang meng
 IPv4 Address 192.168.20.1 Subnet Mask 255.255.252.0         //PASURUAN yang mengarah ke PC SIDOARJO
 IPv4 Address 192.168.0.5 Subnet Mask 255.255.255.252        //PASURUAN yang mengarah ke PROBOLINGGO
 ```
+3. Probolinggo (Router)
+```
+IPv4 Address 192.168.0.6 Subnet Mask 255.255.255.252       //PROBOLINGGO yang mengarah ke PASURUAN
+IPv4 Address 192.168.8.1 Subnet Mask 255.255.248.0         //PROBOLINGGO yang mengarah ke PC JEMBER & BANYUWANGI
+IPv4 Address 192.168.0.129 Subnet Mask 255.255.255.128     //PROBOLINGGO yang mengarah ke PC BONDOWOSO
+```
+4. Batu (Router)
+```
+IPv4 Address 192.168.0.10 Subnet Mask 255.255.255.252     //BATU yang mengarah ke SURABAYA
+IPv4 Address 192.168.2.1 Subnet Mask 255.255.254.0        //BATU yang mengarah ke PC JOMBANG & ROUTER MADIUN
+IPv4 Address 192.168.16.1 Subnet Mask 255.255.252.0       //BATU yang mengarah ke PC NGANJUK
+IPv4 Address 192.168.0.13 Subnet Mask 255.255.255.252     //BATU yang mengarah ke KEDIRI
+```
+5. Madiun (Router)
+6. Kediri (Router)
 
 <br>
 
