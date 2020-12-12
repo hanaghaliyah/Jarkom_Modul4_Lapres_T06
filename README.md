@@ -42,7 +42,7 @@ ONGOING
 ![Subnetting CIDR T6](https://user-images.githubusercontent.com/61286109/101955213-febf2000-3c2f-11eb-86a7-a62a38707eaf.PNG) <br>
 Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas. <br> 
 2. Pembagian IP dengan pohon berdasarkan penggabungan subnet yang telah dilakukan.. <br>
-![Pohon CIDR T6](https://user-images.githubusercontent.com/61286109/101955077-ba338480-3c2f-11eb-84b7-700e1ab98671.png) <br>
+![Pohon CIDR T6](https://user-images.githubusercontent.com/61286109/101984162-3a023300-3cb2-11eb-8ebd-ab3ac6c1044d.png) <br>
 3. Dari pohon tersebut akan mendapat pembagian IP sebagai berikut. <br>
 ![Pembagian Subnet1](https://user-images.githubusercontent.com/61286109/101958235-89eee480-3c35-11eb-9b36-d3a997064abb.PNG) <br>
 
