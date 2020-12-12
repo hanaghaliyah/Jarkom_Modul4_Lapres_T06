@@ -35,30 +35,16 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 <img width="317" alt="vlsm 2" src="https://user-images.githubusercontent.com/26424136/101802833-79117680-3b42-11eb-9bc0-6e4380ee5f62.PNG"> <br>
 
 #### Mengatur Interface pada CPT
-- Atur IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada pohon VLSM.
-- Interface dapat diatur pada menu `Config > INTERFACE > “nama interface”`. Isi alamat IP dan subnet mask dari subnet interface tersebut. <br>
+Atur IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada pohon VLSM. <br>
+Interface dapat diatur pada menu `Config > INTERFACE > “nama interface”`. Isi alamat IP dan subnet mask dari subnet interface tersebut. <br>
 <b>NB:</b> Untuk melihat arah port, dapat menghover device pada saat di <i>logic view</i>, atau dapat selalu diaktifkan di `Options > Preferences > Always Show Port Labels in Logical Workspace`
-1. Surabaya (Router)
-Atur IP pada interface `FastEthernet0/1` SURABAYA yang mengarah ke Cloud
-```
-IPv4 Address 10.151.72.89 Subnet Mask 255.255.255.252
-```
-Atur IP pada interface `FastEthernet0/0` SURABAYA yang mengarah ke PC SAMPANG
-```
-IPv4 Address 192.168.24.1 Subnet Mask 255.255.252.0
-```
-Atur IP pada interface `Ethernet1/0` SURABAYA yang mengarah ke MOJOKERTO (server)
-```
-IPv4 Address 10.151.73.185 Subnet 255.255.255.248
-```
-Atur IP pada interface `Ethernet1/1` SURABAYA yang mengarah ke PASURUAN
-```
-IPv4 Address 192.168.0.1 Subnet 255.255.255.252
-```
-Atur IP pada interface `Ethernet1/2` SURABAYA yang mengarah ke BATU
-```
-IPv4 Address 192.168.0.9 Subnet 255.255.255.252
-```
+1. Surabaya (Router) <br>
+Atur IP pada interface SURABAYA
+- <b>FastEthernet0/1</b> (SURABAYA yang mengarah ke Cloud) `IPv4 Address 10.151.72.89 Subnet Mask 255.255.255.252`
+- <b>FastEthernet0/0</b> (SURABAYA yang mengarah ke PC SAMPANG) `IPv4 Address 192.168.24.1 Subnet Mask 255.255.252.0`
+- <b>Ethernet1/0</b> (SURABAYA yang mengarah ke MOJOKERTO) `IPv4 Address 10.151.73.185 Subnet 255.255.255.248`
+- <b>Ethernet1/1</b> (SURABAYA yang mengarah ke PASURUAN) `IPv4 Address 192.168.0.1 Subnet 255.255.255.252`
+- <b>Ethernet1/2</b> (SURABAYA yang mengarah ke BATU) `IPv4 Address 192.168.0.9 Subnet 255.255.255.252`
 
 #### Routing
 1. Pada Surabaya
