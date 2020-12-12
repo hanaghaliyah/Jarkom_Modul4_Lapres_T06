@@ -67,7 +67,71 @@ IPv4 Address 192.168.16.1 Subnet Mask 255.255.252.0       //BATU yang mengarah k
 IPv4 Address 192.168.0.13 Subnet Mask 255.255.255.252     //BATU yang mengarah ke KEDIRI
 ```
 5. Madiun (Router)
+```
+IPv4 Address 192.168.2.2 Subnet Mask 255.255.254.0       //MADIUN yang mengarah ke PC JOMBANG & ROUTER BATU
+IPv4 Address 192.168.0.17 Subnet Mask 255.255.255.240    //MADIUN yang mengarah ke PC BOJONEGORO
+```
 6. Kediri (Router)
+```
+IPv4 Address 192.168.0.14 Subnet Mask 255.255.255.252      //KEDIRI yang mengarah ke BATU
+IPv4 Address 192.168.1.1 Subnet Mask 255.255.255.0         //KEDIRI yang mengarah ke PC LUMAJANG & ROUTER BLITAR
+IPv4 Address 10.151.73.177 Subnet Mask 255.255.255.248     //KEDIRI yang mengarah ke MALANG (SERVER)
+```
+7. Blitar (Router)  
+```
+IPv4 Address 192.168.1.2 Subnet Mask 255.255.255.0       //BLITAR yang mengarah ke PC LUMAJANG & ROUTER KEDIRI
+IPv4 Address 192.168.4.1 Subnet Mask 255.255.252.0       //BLITAR yang mengarah ke PC TULUNGAGUNG
+```
+
+- Atur IP pada client dan server dengan cara `Pilih tab Desktop > IP Configuration`
+8. Sampang (Client)
+```
+IPv4 Address 192.168.24.2 Subnet Mask 255.255.252.0 Default Gateway 192.168.24.1
+```
+9. Bondowoso (Client)
+```
+IPv4 Address 192.168.0.130 Subnet Mask 255.255.255.128 Default Gateway 192.168.0.129
+```
+10. Jember (Client)
+```
+IPv4 Address 192.168.8.2 Subnet Mask 255.255.248.0 Default Gateway 192.168.8.1
+```
+11. Banyuwangi (Client)
+```
+IPv4 Address 192.168.12.1 Subnet Mask 255.255.248.0 Default Gateway 192.168.8.1
+```
+12. Sidoarjo (Client)
+```
+IPv4 Address 192.168.20.2 Subnet Mask 255.255.255.0 Default Gateway 192.168.20.1
+```
+13. Jombang (Client)
+```
+IPv4 Address 192.168.2.3 Subnet Mask 255.255.254.0 Default Gateway 192.168.2.1
+```
+14. Bojonegoro (Client)
+```
+IPv4 Address 192.168.0.18 Subnet Mask 255.255.255.240 Default Gateway 192.168.0.17
+```
+15. Nganjuk (Client)
+```
+IPv4 Address 192.168.16.2 Subnet Mask 255.255.252.0 Default Gateway 192.168.16.1
+```
+16. Lumajang (Client)
+```
+IPv4 Address 192.168.1.3 Subnet Mask 255.255.255.0 Default Gateway 192.168.1.1
+```
+17. Tulungagung (Client)
+```
+IPv4 Address 192.168.4.2 Subnet Mask 255.255.252.0 Default Gateway 192.168.4.1
+```
+18. Mojokerto (Server)
+```
+IPv4 Address 10.151.73.186 Subnet Mask 255.255.255.248 Default Gateway 10.151.73.185
+```
+19. Malang (Server)
+```
+IPv4 Address 10.151.73.178 Subnet Mask 255.255.255.248 Default Gateway 10.151.73.177
+```
 
 <br>
 
