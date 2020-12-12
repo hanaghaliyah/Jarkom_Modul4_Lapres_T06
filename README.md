@@ -40,11 +40,13 @@ Interface dapat diatur pada menu `Config > INTERFACE > “nama interface”`. Is
 <b>NB:</b> Untuk melihat arah port, dapat menghover device pada saat di <i>logic view</i>, atau dapat selalu diaktifkan di `Options > Preferences > Always Show Port Labels in Logical Workspace`
 1. Surabaya (Router) <br>
 Atur IP pada interface SURABAYA
-- <b>FastEthernet0/1</b> (SURABAYA yang mengarah ke Cloud) `IPv4 Address 10.151.72.89 Subnet Mask 255.255.255.252`
-- <b>FastEthernet0/0</b> (SURABAYA yang mengarah ke PC SAMPANG) `IPv4 Address 192.168.24.1 Subnet Mask 255.255.252.0`
-- <b>Ethernet1/0</b> (SURABAYA yang mengarah ke MOJOKERTO) `IPv4 Address 10.151.73.185 Subnet 255.255.255.248`
-- <b>Ethernet1/1</b> (SURABAYA yang mengarah ke PASURUAN) `IPv4 Address 192.168.0.1 Subnet 255.255.255.252`
-- <b>Ethernet1/2</b> (SURABAYA yang mengarah ke BATU) `IPv4 Address 192.168.0.9 Subnet 255.255.255.252`
+```
+IPv4 Address 10.151.72.89 Subnet Mask 255.255.255.252       //SURABAYA yang mengarah ke Cloud
+IPv4 Address 192.168.24.1 Subnet Mask 255.255.252.0         //SURABAYA yang mengarah ke PC SAMPANG
+IPv4 Address 10.151.73.185 Subnet Mask 255.255.255.248      //SURABAYA yang mengarah ke MOJOKERTO
+IPv4 Address 192.168.0.1 Subnet Mask 255.255.255.252        //SURABAYA yang mengarah ke PASURUAN
+IPv4 Address 192.168.0.9 Subnet Mask255.255.255.252         //SURABAYA yang mengarah ke BATU
+```
 
 #### Routing
 1. Pada Surabaya
