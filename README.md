@@ -28,7 +28,7 @@ Terdapat 13 subnet di dalam topologi. <br>
 <img width="181" alt="vlsm 1" src="https://user-images.githubusercontent.com/26424136/101802827-7747b300-3b42-11eb-8e04-ee7f2eaf9ff0.PNG"> <br>
 Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan netmask <b>/19</b> untuk memberikan pengalamatan IP pada subnet. <br>
 2. Hitung pembagian IP dan Lakukan subnetting dengan menggunakan pohon tersebut untuk pembagian IP sesuai dengan kebutuhan masing-masing subnet yang ada. <br>
-![pohon pembagian IP VLSM](https://user-images.githubusercontent.com/26424136/101801011-80d01b80-3b40-11eb-9854-a8a654af22d0.png) <br>
+![pohon pembagian IP VLSM](https://user-images.githubusercontent.com/26424136/101984456-21931800-3cb4-11eb-8f6a-e3c72a7aa81c.png) <br>
 3. Dari pohon tersebut akan mendapat pembagian IP sebagai berikut. <br>
 <img width="317" alt="vlsm 2" src="https://user-images.githubusercontent.com/26424136/101802833-79117680-3b42-11eb-9bc0-6e4380ee5f62.PNG"> <br>
 
