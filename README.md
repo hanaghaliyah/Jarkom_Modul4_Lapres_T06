@@ -34,6 +34,7 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 - Dari pohon tersebut akan mendapat pembagian IP sebagai berikut. <br>
 <img width="317" alt="vlsm 2" src="https://user-images.githubusercontent.com/26424136/101802833-79117680-3b42-11eb-9bc0-6e4380ee5f62.PNG"> <br>
 <br>
+
 #### Mengatur Interface pada CPT
 - Atur IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada pohon VLSM.
 - Interface dapat diatur pada menu `Config > INTERFACE > “nama interface”`. Isi alamat IP dan subnet mask dari subnet interface tersebut. <br>
@@ -48,12 +49,13 @@ IPv4 Address 192.168.0.9 Subnet Mask255.255.255.252         //SURABAYA yang meng
 ```
 2. Pasuruan (Router)
 ```
-IPv4 Address 192.168.0.2 Subnet Mask 255.255.255.252     //PASURUAN yang mengarah ke SURABAYA
+IPv4 Address 192.168.0.2 Subnet Mask 255.255.255.252        //PASURUAN yang mengarah ke SURABAYA
 IPv4 Address 192.168.20.1 Subnet Mask 255.255.252.0         //PASURUAN yang mengarah ke PC SIDOARJO
-IPv4 Address 192.168.0.5 Subnet Mask 255.255.255.252      //PASURUAN yang mengarah ke PROBOLINGGO
+IPv4 Address 192.168.0.5 Subnet Mask 255.255.255.252        //PASURUAN yang mengarah ke PROBOLINGGO
 ```
 
 <br>
+
 #### Routing
 - Routing dilakukan pada menu <b>Config > Routing > Static</b> pada device <b>Router</b>. Lalu isi <i>Static Routes</i> dan tekan tombol Add
 - Pada <i>static routing</i> juga dibutuhkan <b>default routing</b> agar router dapat mengirimkan paket sesuai dengan tujuan. Default routing dibutuhkan untuk router yang berada di bawah router utama (router yang terhubung internet).
