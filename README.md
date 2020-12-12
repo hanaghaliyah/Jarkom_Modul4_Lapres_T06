@@ -50,6 +50,34 @@ Network 10.151.73.176 Netmask 255.255.255.248 Next Hop 192.168.0.10
 Network 192.168.0.12 Netmask 255.255.255.252 Next Hop 192.168.0.10
 ```
 2. Pada Pasuruan
+```
+Network 192.168.0.128 Netmask 255.255.255.128 Next Hop 192.168.0.6
+Network 192.168.8.0 Netmask 255.255.248.0 Next Hop 192.168.0.6
+Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.0.1
+```
+3. Pada Probolinggo
+```
+Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.0.5
+```
+4. Pada Batu
+```
+Network 192.168.0.16 Netmask 255.255.255.240 Next Hop 192.168.2.2
+Network 192.168.1.0 Netmask 255.255.255.0 Next Hop 192.168.0.14
+Network 192.168.4.0 Netmask 255.255.252.0 Next Hop 192.168.0.14
+Network 10.151.73.176 Netmask 255.255.255.248 Next Hop 192.168.0.14
+Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.0.9
+```
+5. Pada Madiun
+```
+Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.2.1
+```
+6. Pada Kediri
+```
+Network 192.168.4.0 Netmask 255.255.252.0 Next Hop 192.168.1.2
+Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.0.13
+```
+7. Pada Blitar
+Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.1.1
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
