@@ -35,8 +35,23 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 <img width="317" alt="vlsm 2" src="https://user-images.githubusercontent.com/26424136/101802833-79117680-3b42-11eb-9bc0-6e4380ee5f62.PNG"> <br>
 
 #### Routing
-ONGOING
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Pada Surabaya
+```
+Network 192.168.0.128 Netmask 255.255.255.128 Next Hop 192.168.0.2
+Network 192.168.8.0 Netmask 255.255.248.0 Next Hop 192.168.0.2
+Network 192.168.20.0 Netmask 255.255.252.0 Next Hop 192.168.0.2
+Network 192.168.0.4 Netmask 255.255.255.252 Next Hop 192.168.0.2
+Network 192.168.16.0 Netmask 255.255.252.0 Next Hop 192.168.0.10
+Network 192.168.2.0 Netmask 255.255.254.0 Next Hop 192.168.0.10
+Network 192.168.0.16 Netmask 255.255.255.240 Next Hop 192.168.0.10
+Network 192.168.1.0 Netmask 255.255.255.0 Next Hop 192.168.0.10
+Network 192.168.4.0 Netmask 255.255.252.0 Next Hop 192.168.0.10
+Network 10.151.73.176 Netmask 255.255.255.248 Next Hop 192.168.0.10
+Network 192.168.0.12 Netmask 255.255.255.252 Next Hop 192.168.0.10
+```
+2. Pada Pasuruan
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### UML Menggunakan Metode Classless CIDR (Classless Inter Domain Routing)
 #### Topologi dan Pembagian IP
