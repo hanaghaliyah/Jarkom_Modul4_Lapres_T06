@@ -38,6 +38,27 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 - Atur IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada pohon VLSM.
 - Interface dapat diatur pada menu `Config > INTERFACE > “nama interface”`. Isi alamat IP dan subnet mask dari subnet interface tersebut. <br>
 <b>NB:</b> Untuk melihat arah port, dapat menghover device pada saat di <i>logic view</i>, atau dapat selalu diaktifkan di `Options > Preferences > Always Show Port Labels in Logical Workspace`
+1. Surabaya (Router)
+Atur IP pada interface `FastEthernet0/1` SURABAYA yang mengarah ke Cloud
+```
+IPv4 Address 10.151.72.89 Subnet Mask 255.255.255.252
+```
+Atur IP pada interface `FastEthernet0/0` SURABAYA yang mengarah ke PC SAMPANG
+```
+IPv4 Address 192.168.24.1 Subnet Mask 255.255.252.0
+```
+Atur IP pada interface `Ethernet1/0` SURABAYA yang mengarah ke MOJOKERTO (server)
+```
+IPv4 Address 10.151.73.185 Subnet 255.255.255.248
+```
+Atur IP pada interface `Ethernet1/1` SURABAYA yang mengarah ke PASURUAN
+```
+IPv4 Address 192.168.0.1 Subnet 255.255.255.252
+```
+Atur IP pada interface `Ethernet1/2` SURABAYA yang mengarah ke BATU
+```
+IPv4 Address 192.168.0.9 Subnet 255.255.255.252
+```
 
 #### Routing
 1. Pada Surabaya
