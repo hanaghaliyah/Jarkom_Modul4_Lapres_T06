@@ -35,11 +35,10 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 <img width="317" alt="vlsm 2" src="https://user-images.githubusercontent.com/26424136/101802833-79117680-3b42-11eb-9bc0-6e4380ee5f62.PNG"> <br>
 
 #### Mengatur Interface pada CPT
-Atur IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada pohon VLSM. <br>
-Interface dapat diatur pada menu `Config > INTERFACE > “nama interface”`. Isi alamat IP dan subnet mask dari subnet interface tersebut. <br>
+- Atur IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada pohon VLSM.
+- Interface dapat diatur pada menu `Config > INTERFACE > “nama interface”`. Isi alamat IP dan subnet mask dari subnet interface tersebut. <br>
 <b>NB:</b> Untuk melihat arah port, dapat menghover device pada saat di <i>logic view</i>, atau dapat selalu diaktifkan di `Options > Preferences > Always Show Port Labels in Logical Workspace`
-1. Surabaya (Router) <br>
-Atur IP pada interface SURABAYA
+1. Surabaya (Router)
 ```
 IPv4 Address 10.151.72.89 Subnet Mask 255.255.255.252       //SURABAYA yang mengarah ke Cloud
 IPv4 Address 192.168.24.1 Subnet Mask 255.255.252.0         //SURABAYA yang mengarah ke PC SAMPANG
@@ -49,6 +48,8 @@ IPv4 Address 192.168.0.9 Subnet Mask255.255.255.252         //SURABAYA yang meng
 ```
 
 #### Routing
+- Routing dilakukan pada menu <b>Config > Routing > Static</b> pada device <b>Router</b>. Lalu isi <i>Static Routes</i> dan tekan tombol Add
+- Pada <i>static routing</i> juga dibutuhkan <b>default routing</b> agar router dapat mengirimkan paket sesuai dengan tujuan. Default routing dibutuhkan untuk router yang berada di bawah router utama (router yang terhubung internet).
 1. Pada Surabaya
 ```
 Network 192.168.0.128 Netmask 255.255.255.128 Next Hop 192.168.0.2
