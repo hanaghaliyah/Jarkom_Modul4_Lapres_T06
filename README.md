@@ -240,5 +240,12 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 - KLIEN TULUNGAGUNG <br>
 ![iface tulungagung](https://user-images.githubusercontent.com/61286109/102000365-466da680-3d19-11eb-9140-ff1f22faef93.PNG) <br>
 4. Pada UML SURABAYA jalankan syntax `iptables –t nat –A POSTROUTING –o eth0 –j MASQUERADE –s 192.168.0.0/16.` agar semua UML terhubung ke internet.
-5. Lakukan Routing terhadap <b>Router Surabaya, Pasuruan, Batu dan Kediri</b> dengan membuat file dengan `nano routing.sh` untuk memudahkan kita karena pada saat setiap UML di restart maka routenya ke reset.
-- 
+5. Lakukan Routing terhadap <b>Router Surabaya, Pasuruan, Batu dan Kediri</b> dengan membuat file dengan `nano routing.sh` untuk memudahkan kita karena pada saat setiap UML di restart maka routenya ke reset. Untuk menjalankannya ketik syntax `source routing.sh`.
+- ROUTER SURABAYA (ROUTING) <br>
+![route sby](https://user-images.githubusercontent.com/61286109/102002510-c56dd980-3d2f-11eb-9497-0aa15231601b.PNG)
+![routing sby](https://user-images.githubusercontent.com/61286109/102002511-c7d03380-3d2f-11eb-951a-08d954f7a36b.PNG)<br>
+- ROUTER PASURUAN (ROUTING) <br>
+![route pasuruan](https://user-images.githubusercontent.com/61286109/102002513-ca328d80-3d2f-11eb-963a-45e764edf4d6.PNG)
+![routing pasuruan](https://user-images.githubusercontent.com/61286109/102002514-cacb2400-3d2f-11eb-8d53-96997451670f.PNG)<br>
+- ROUTER BATU (ROUTING) <br>
+- ROUTER KEDIRI (ROUTING) <br>
