@@ -201,6 +201,19 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 3. Lakukan setting interface pada semua UML di `nano /etc/network/interfaces` dan di restart dengan syntax `service networking restart`. <br>
 - ROUTER SURABAYA <br>
 ![iface sby1](https://user-images.githubusercontent.com/61286109/101999627-8597f980-3d11-11eb-8db1-17dc2f15e56a.PNG)
-![iface sby2](https://user-images.githubusercontent.com/61286109/101999630-892b8080-3d11-11eb-9c52-c72016beb29e.PNG)
+![iface sby2](https://user-images.githubusercontent.com/61286109/101999630-892b8080-3d11-11eb-9c52-c72016beb29e.PNG) <br>
 - ROUTER PASURUAN <br>
-
+![iface pasuruan](https://user-images.githubusercontent.com/61286109/102000359-42da1f80-3d19-11eb-8e69-b0bebf53dfd9.PNG) <br>
+- ROUTER PROBOLINGGO <br>
+![iface probolinggo](https://user-images.githubusercontent.com/61286109/102000361-4372b600-3d19-11eb-9c10-8a9ff5a60a49.PNG) <br>
+- ROUTER BATU <br>
+- ROUTER MADIUN <br>
+![iface madiun](https://user-images.githubusercontent.com/61286109/102000355-4077c580-3d19-11eb-8a49-a19bf3068ca5.PNG) <br>
+- ROUTER KEDIRI <br>
+![iface kediri](https://user-images.githubusercontent.com/61286109/102000352-3f469880-3d19-11eb-8db3-b56d67efe068.PNG) <br>
+- ROUTER BLITAR <br>
+![iface blitar](https://user-images.githubusercontent.com/61286109/102000367-48376a00-3d19-11eb-804b-e3553e99858a.PNG) <br>
+- SERVER MOJOKERTO <br>
+![iface mojokerto](https://user-images.githubusercontent.com/61286109/102000357-41a8f280-3d19-11eb-8491-c11562930f4f.PNG) <br>
+- SERVER MALANG <br>
+![iface malang](https://user-images.githubusercontent.com/61286109/102000356-41105c00-3d19-11eb-8c80-9a973ccb0194.PNG) <br>
