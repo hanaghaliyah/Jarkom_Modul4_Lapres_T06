@@ -199,8 +199,8 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 ![Konfigurasi2 UML T6](https://user-images.githubusercontent.com/61286109/101959482-fff44b00-3c37-11eb-9ccd-ff1f8017fc9a.PNG) <br>
 2. Pada semua UML Router, ke file `nano /etc/sysctl.conf` kemudian uncomment `net.ipv4.ip_forward=1` dan aktifkan dengan syntax `sysctl -p`.
 3. Lakukan setting interface pada semua UML di `nano /etc/network/interfaces` dan di restart dengan syntax `service networking restart`. <br>
-- ROUTER SURABAYA
+- ROUTER SURABAYA <br>
 ![iface sby1](https://user-images.githubusercontent.com/61286109/101999627-8597f980-3d11-11eb-8db1-17dc2f15e56a.PNG)
-![iface sby2](https://user-images.githubusercontent.com/61286109/101999630-892b8080-3d11-11eb-9c52-c72016beb29e.PNG) <br>
-- ROUTER PASURUAN 
+![iface sby2](https://user-images.githubusercontent.com/61286109/101999630-892b8080-3d11-11eb-9c52-c72016beb29e.PNG)
+- ROUTER PASURUAN <br>
 
