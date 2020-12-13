@@ -256,9 +256,15 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 
 #### Testing
 1. Dari TULUNGAGUNG ping ke <b>its.ac.id</b>
-
+![ping tulungagung-its](https://user-images.githubusercontent.com/61286109/102012585-d3e2e200-3d7d-11eb-9dc5-e4cc2e6efae1.PNG) <br>
 2. Dari BANYUWANGI ping ke <b>its.ac.id</b>
+![ping banyuwangi-its](https://user-images.githubusercontent.com/61286109/102012569-cf1e2e00-3d7d-11eb-87a4-3e776f008a34.PNG)<br>
 3. Dari SIDOARJO ping ke <b>its.ac.id</b>
+![ping sidoarjo-its](https://user-images.githubusercontent.com/61286109/102012582-d2b1b500-3d7d-11eb-91a9-45070ae6ba61.PNG)<br>
 4. Dari PROBOLINGGO ping ke <b>its.ac.id</b>
+![ping probolinggo-its](https://user-images.githubusercontent.com/61286109/102012579-d2191e80-3d7d-11eb-9939-81bef9785615.PNG)<br>
 5. Dari LUMAJANG ping ke <b>its.ac.id</b>
+![ping lumajang-its](https://user-images.githubusercontent.com/61286109/102012577-d1808800-3d7d-11eb-8df1-9490a90472e2.PNG)<br>
 6. Dari BOJONEGORO ping ke <b>its.ac.id</b>
+![ping bojonegoro-its](https://user-images.githubusercontent.com/61286109/102012574-d0e7f180-3d7d-11eb-9e95-e83a59921a69.PNG)<br>
+
