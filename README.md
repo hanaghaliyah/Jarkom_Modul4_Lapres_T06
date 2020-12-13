@@ -256,7 +256,7 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 
 #### Testing
 1. Dari TULUNGAGUNG ping ke <b>its.ac.id</b><br>
-![ping tulungagung-its](https://user-images.githubusercontent.com/61286109/102012585-d3e2e200-3d7d-11eb-9dc5-e4cc2e6efae1.PNG) <br>
+![ping tulungagung-its](https://user-images.githubusercontent.com/61286109/102012585-d3e2e200-3d7d-11eb-9dc5-e4cc2e6efae1.PNG)<br>
 2. Dari BANYUWANGI ping ke <b>its.ac.id</b><br>
 ![ping banyuwangi-its](https://user-images.githubusercontent.com/61286109/102012569-cf1e2e00-3d7d-11eb-87a4-3e776f008a34.PNG)<br>
 3. Dari SIDOARJO ping ke <b>its.ac.id</b><br>
@@ -268,15 +268,21 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 6. Dari BOJONEGORO ping ke <b>its.ac.id</b><br>
 ![ping bojonegoro-its](https://user-images.githubusercontent.com/61286109/102012574-d0e7f180-3d7d-11eb-9e95-e83a59921a69.PNG)<br>
 7. Dari MALANG ping ke <b>MOJOKERTO (10.151.73.186)</b><br>
-![ping malang-mojokerto](https://user-images.githubusercontent.com/61286109/102012804-fde8d400-3d7e-11eb-89ab-7725dece60b0.PNG) <br>
-8. Dari MALANG ping ke <b>BANYUWANGI</b><br>
-![ping malang-banyuwangi](https://user-images.githubusercontent.com/61286109/102012882-515b2200-3d7f-11eb-8970-30476e37e932.PNG) <br>
-9. Dari MOJOKERTO ping ke <b>BOJONEGORO</b><br>
-![ping mojokerto-bojonegoro](https://user-images.githubusercontent.com/61286109/102012915-86677480-3d7f-11eb-9f2c-963aea63e8b3.PNG) <br>
+![ping malang-mojokerto](https://user-images.githubusercontent.com/61286109/102012804-fde8d400-3d7e-11eb-89ab-7725dece60b0.PNG)<br>
+8. Dari MALANG ping ke <b>BANYUWANGI (192.168.0.3)</b><br>
+![ping malang-banyuwangi](https://user-images.githubusercontent.com/61286109/102012882-515b2200-3d7f-11eb-8970-30476e37e932.PNG)<br>
+9. Dari MOJOKERTO ping ke <b>BOJONEGORO (192.168.146.2)</b><br>
+![ping mojokerto-bojonegoro](https://user-images.githubusercontent.com/61286109/102012915-86677480-3d7f-11eb-9f2c-963aea63e8b3.PNG)<br>
 10. Dari PROBOLINGGO ping ke <b>MOJOKERTO (10.151.73.186)</b><br>
-![ping probolinggo-mojokerto](https://user-images.githubusercontent.com/61286109/102012965-c0d11180-3d7f-11eb-8b0f-d03ba4a38dda.PNG) <br>
-11. Dari KEDIRI ping ke <b>PROBOLINGGO</b><br>
-12. Dari PROBOLINGGO ping ke <b>JOMBANG</b><br>
-13. Dari LUMAJANG ping ke <b>JOMBANG</b><br>
-14. Dari TULUNGAGUNG ping ke <b>JEMBER</b><br>
+![ping probolinggo-mojokerto](https://user-images.githubusercontent.com/61286109/102012965-c0d11180-3d7f-11eb-8b0f-d03ba4a38dda.PNG)<br>
+11. Dari KEDIRI ping ke <b>PROBOLINGGO (192.168.16.2)</b><br>
+![ping kediri-probolinggo](https://user-images.githubusercontent.com/61286109/102013088-684e4400-3d80-11eb-932a-142ed9170ced.PNG)<br>
+12. Dari PROBOLINGGO ping ke <b>JOMBANG (192.168.144.3)</b><br>
+![ping probolinggo-jombang](https://user-images.githubusercontent.com/61286109/102013121-aba8b280-3d80-11eb-9698-119536099884.PNG)<br>
+13. Dari LUMAJANG ping ke <b>JOMBANG (192.168.144.3)</b><br>
+![ping lumajang-jombang](https://user-images.githubusercontent.com/61286109/102013143-e90d4000-3d80-11eb-917d-9058003baf4f.PNG)<br>
+14. Dari TULUNGAGUNG ping ke <b>JEMBER (192.168.0.2)</b><br>
+![ping tulungagung-jember](https://user-images.githubusercontent.com/61286109/102013186-2a9deb00-3d81-11eb-9105-1ad291e765ec.PNG)<br>
 15. Dari NGANJUK ping ke <b>BONDOWOSO</b><br>
+![ping nganjuk-bondowoso](https://user-images.githubusercontent.com/61286109/102013241-718be080-3d81-11eb-81f4-e2794d5c5252.PNG)<br>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
