@@ -267,4 +267,12 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 ![ping lumajang-its](https://user-images.githubusercontent.com/61286109/102012577-d1808800-3d7d-11eb-8df1-9490a90472e2.PNG)<br>
 6. Dari BOJONEGORO ping ke <b>its.ac.id</b><br>
 ![ping bojonegoro-its](https://user-images.githubusercontent.com/61286109/102012574-d0e7f180-3d7d-11eb-9e95-e83a59921a69.PNG)<br>
-
+7. Dari MALANG ping ke <b>MOJOKERTO</b><br>
+8. Dari MALANG ping ke <b>BANYUWANGI</b><br>
+9. Dari MOJOKERTO ping ke <b>BOJONEGORO</b><br>
+10. Dari PROBOLINGGO ping ke <b>MOJOKERTO</b><br>
+11. Dari KEDIRI ping ke <b>PROBOLINGGO</b><br>
+12. Dari PROBOLINGGO ping ke <b>JOMBANG</b><br>
+13. Dari LUMAJANG ping ke <b>JOMBANG</b><br>
+14. Dari TULUNGAGUNG ping ke <b>JEMBER</b><br>
+15. Dari NGANJUK ping ke <b>BONDOWOSO</b><br>
