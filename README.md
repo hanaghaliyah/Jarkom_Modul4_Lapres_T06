@@ -218,12 +218,22 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 - SERVER MALANG <br>
 ![iface malang](https://user-images.githubusercontent.com/61286109/102000356-41105c00-3d19-11eb-8c80-9a973ccb0194.PNG) <br>
 - KLIEN SAMPANG <br>
+![iface sampang](https://user-images.githubusercontent.com/61286109/102000362-440b4c80-3d19-11eb-9412-73590e8fb1f1.PNG) <br>
 - KLIEN BONDOWOSO <br>
+![iface bondowoso](https://user-images.githubusercontent.com/61286109/102000346-3bb31180-3d19-11eb-9969-e75d60034377.PNG) <br>
 - KLIEN JEMBER <br>
+![iface jember](https://user-images.githubusercontent.com/61286109/102000350-3d7cd500-3d19-11eb-9a84-f2bb08feb694.PNG) <br>
 - KLIEN BANYUWANGI <br>
+![iface banyuwangi](https://user-images.githubusercontent.com/61286109/102000366-47063d00-3d19-11eb-9048-aaa393f9f67a.PNG) <br>
 - KLIEN SIDOARJO <br>
+![iface sidoarjo](https://user-images.githubusercontent.com/61286109/102000363-45d51000-3d19-11eb-86a9-00a6b3cfc818.PNG) <br>
 - KLIEN JOMBANG <br>
+![iface jombang](https://user-images.githubusercontent.com/61286109/102000351-3e156b80-3d19-11eb-83ea-17ff09d6ad62.PNG) <br>
 - KLIEN BOJONEGORO <br>
+![iface bojonegoro](https://user-images.githubusercontent.com/61286109/102000368-48376a00-3d19-11eb-9326-46c19509c438.PNG) <br>
 - KLIEN NGANJUK <br>
+![iface nganjuk](https://user-images.githubusercontent.com/61286109/102000358-42418900-3d19-11eb-95a0-03b7b769a9e7.PNG) <br>
 - KLIEN LUMAJANG <br>
+![iface lumajang](https://user-images.githubusercontent.com/61286109/102000354-4077c580-3d19-11eb-9cd9-8adca91709c1.PNG) <br>
 - KLIEN TULUNGAGUNG <br>
+![iface tulungagung](https://user-images.githubusercontent.com/61286109/102000365-466da680-3d19-11eb-9140-ff1f22faef93.PNG) <br>
