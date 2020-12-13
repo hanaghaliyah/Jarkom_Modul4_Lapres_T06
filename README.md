@@ -283,6 +283,6 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 ![ping lumajang-jombang](https://user-images.githubusercontent.com/61286109/102013143-e90d4000-3d80-11eb-917d-9058003baf4f.PNG)<br>
 14. Dari TULUNGAGUNG ping ke <b>JEMBER (192.168.0.2)</b><br>
 ![ping tulungagung-jember](https://user-images.githubusercontent.com/61286109/102013186-2a9deb00-3d81-11eb-9105-1ad291e765ec.PNG)<br>
-15. Dari NGANJUK ping ke <b>BONDOWOSO</b><br>
+15. Dari NGANJUK ping ke <b>BONDOWOSO (192.168.8.2)</b><br>
 ![ping nganjuk-bondowoso](https://user-images.githubusercontent.com/61286109/102013241-718be080-3d81-11eb-81f4-e2794d5c5252.PNG)<br>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
