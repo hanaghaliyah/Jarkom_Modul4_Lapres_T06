@@ -203,7 +203,7 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 ![iface sby1](https://user-images.githubusercontent.com/61286109/102002117-f9df9680-3d2b-11eb-91ad-64b28e515c0c.PNG)
 ![iface sby2](https://user-images.githubusercontent.com/61286109/101999630-892b8080-3d11-11eb-9c52-c72016beb29e.PNG) <br>
 - ROUTER PASURUAN <br>
-![iface pasuruan](https://user-images.githubusercontent.com/61286109/102002327-006f0d80-3d2e-11eb-8e9f-f7338e09e018.PNG) <br>
+![iface pasuruan](https://user-images.githubusercontent.com/61286109/102002377-930fac80-3d2e-11eb-9169-3666ad9d23d2.PNG) <br>
 - ROUTER PROBOLINGGO <br>
 ![iface probolinggo](https://user-images.githubusercontent.com/61286109/102002307-ca318e00-3d2d-11eb-8ba3-7e120b4a6233.PNG) <br>
 - ROUTER BATU <br>
