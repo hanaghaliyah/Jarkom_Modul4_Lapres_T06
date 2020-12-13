@@ -253,3 +253,10 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 - ROUTER KEDIRI (ROUTING) <br>
 ![routing kediri](https://user-images.githubusercontent.com/61286109/102002865-6611c880-3d33-11eb-820f-dcb5762e7577.PNG)
 ![route kediri](https://user-images.githubusercontent.com/61286109/102002867-6742f580-3d33-11eb-9eb2-46d3281178c3.PNG)<br>
+
+#### Testing
+1. 
+2.
+3.
+4.
+5.
