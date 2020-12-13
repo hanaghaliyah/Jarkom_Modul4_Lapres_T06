@@ -267,10 +267,14 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 ![ping lumajang-its](https://user-images.githubusercontent.com/61286109/102012577-d1808800-3d7d-11eb-8df1-9490a90472e2.PNG)<br>
 6. Dari BOJONEGORO ping ke <b>its.ac.id</b><br>
 ![ping bojonegoro-its](https://user-images.githubusercontent.com/61286109/102012574-d0e7f180-3d7d-11eb-9e95-e83a59921a69.PNG)<br>
-7. Dari MALANG ping ke <b>MOJOKERTO</b><br>
+7. Dari MALANG ping ke <b>MOJOKERTO (10.151.73.186)</b><br>
+![ping malang-mojokerto](https://user-images.githubusercontent.com/61286109/102012804-fde8d400-3d7e-11eb-89ab-7725dece60b0.PNG) <br>
 8. Dari MALANG ping ke <b>BANYUWANGI</b><br>
+![ping malang-banyuwangi](https://user-images.githubusercontent.com/61286109/102012882-515b2200-3d7f-11eb-8970-30476e37e932.PNG) <br>
 9. Dari MOJOKERTO ping ke <b>BOJONEGORO</b><br>
-10. Dari PROBOLINGGO ping ke <b>MOJOKERTO</b><br>
+![ping mojokerto-bojonegoro](https://user-images.githubusercontent.com/61286109/102012915-86677480-3d7f-11eb-9f2c-963aea63e8b3.PNG) <br>
+10. Dari PROBOLINGGO ping ke <b>MOJOKERTO (10.151.73.186)</b><br>
+![ping probolinggo-mojokerto](https://user-images.githubusercontent.com/61286109/102012965-c0d11180-3d7f-11eb-8b0f-d03ba4a38dda.PNG) <br>
 11. Dari KEDIRI ping ke <b>PROBOLINGGO</b><br>
 12. Dari PROBOLINGGO ping ke <b>JOMBANG</b><br>
 13. Dari LUMAJANG ping ke <b>JOMBANG</b><br>
