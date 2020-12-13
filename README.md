@@ -217,3 +217,13 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 ![iface mojokerto](https://user-images.githubusercontent.com/61286109/102000357-41a8f280-3d19-11eb-8491-c11562930f4f.PNG) <br>
 - SERVER MALANG <br>
 ![iface malang](https://user-images.githubusercontent.com/61286109/102000356-41105c00-3d19-11eb-8c80-9a973ccb0194.PNG) <br>
+- KLIEN SAMPANG <br>
+- KLIEN BONDOWOSO <br>
+- KLIEN JEMBER <br>
+- KLIEN BANYUWANGI <br>
+- KLIEN SIDOARJO <br>
+- KLIEN JOMBANG <br>
+- KLIEN BOJONEGORO <br>
+- KLIEN NGANJUK <br>
+- KLIEN LUMAJANG <br>
+- KLIEN TULUNGAGUNG <br>
