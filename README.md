@@ -239,3 +239,5 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 ![iface lumajang](https://user-images.githubusercontent.com/61286109/102000354-4077c580-3d19-11eb-9cd9-8adca91709c1.PNG) <br>
 - KLIEN TULUNGAGUNG <br>
 ![iface tulungagung](https://user-images.githubusercontent.com/61286109/102000365-466da680-3d19-11eb-9140-ff1f22faef93.PNG) <br>
+4. Pada UML SURABAYA jalankan syntax `iptables –t nat –A POSTROUTING –o eth0 –j MASQUERADE –s 192.168.0.0/16.` agar semua UML terhubung ke internet.
+5. Lakukan Routing terhadap <b>Router Surabaya, Pasuruan, Batu dan Kediri.<b/> dengan membuat file `routing.sh` untuk memudahkan kita karena di setiap UML di restart maka routenya ke reset.
