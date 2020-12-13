@@ -191,7 +191,7 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 2. Pembagian IP dengan pohon berdasarkan penggabungan subnet yang telah dilakukan.. <br>
 ![Pohon CIDR T6](https://user-images.githubusercontent.com/61286109/101984162-3a023300-3cb2-11eb-8ebd-ab3ac6c1044d.png) <br>
 3. Dari pohon tersebut akan mendapat pembagian IP sebagai berikut. <br>
-![Pembagian Subnet1](https://user-images.githubusercontent.com/61286109/101958235-89eee480-3c35-11eb-9b36-d3a997064abb.PNG) <br>
+![Pembagian Subnet1](https://user-images.githubusercontent.com/61286109/102002015-01527000-3d2b-11eb-978d-79dd8b60463f.PNG) <br>
 
 #### Konfigurasi Pada Tiap UML
 1. Pertama, membuat file `topologi.sh`.<br>
