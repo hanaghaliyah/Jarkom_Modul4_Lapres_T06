@@ -248,4 +248,8 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 ![routing pasuruan](https://user-images.githubusercontent.com/61286109/102002514-cacb2400-3d2f-11eb-8d53-96997451670f.PNG)
 ![route pasuruan](https://user-images.githubusercontent.com/61286109/102002513-ca328d80-3d2f-11eb-963a-45e764edf4d6.PNG)<br>
 - ROUTER BATU (ROUTING) <br>
+![routing batu](https://user-images.githubusercontent.com/61286109/102002864-64480500-3d33-11eb-87e2-30fbcc273b87.PNG)
+![route batu](https://user-images.githubusercontent.com/61286109/102002866-6611c880-3d33-11eb-85cf-cd2e88d4f4e4.PNG)<br>
 - ROUTER KEDIRI (ROUTING) <br>
+![routing kediri](https://user-images.githubusercontent.com/61286109/102002865-6611c880-3d33-11eb-820f-dcb5762e7577.PNG)
+![route kediri](https://user-images.githubusercontent.com/61286109/102002867-6742f580-3d33-11eb-9eb2-46d3281178c3.PNG)<br>
