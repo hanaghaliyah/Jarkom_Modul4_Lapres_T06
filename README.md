@@ -236,7 +236,7 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 - KLIEN NGANJUK <br>
 ![iface nganjuk](https://user-images.githubusercontent.com/61286109/102000358-42418900-3d19-11eb-95a0-03b7b769a9e7.PNG) <br>
 - KLIEN LUMAJANG <br>
-![iface lumajang](https://user-images.githubusercontent.com/61286109/102000354-4077c580-3d19-11eb-9cd9-8adca91709c1.PNG) <br>
+![iface lumajang](https://user-images.githubusercontent.com/61286109/102010797-e99eda00-3d72-11eb-9f18-f153af1a1cd9.PNG) <br>
 - KLIEN TULUNGAGUNG <br>
 ![iface tulungagung](https://user-images.githubusercontent.com/61286109/102000365-466da680-3d19-11eb-9140-ff1f22faef93.PNG) <br>
 4. Pada UML SURABAYA jalankan syntax `iptables –t nat –A POSTROUTING –o eth0 –j MASQUERADE –s 192.168.0.0/16.` agar semua UML terhubung ke internet.
