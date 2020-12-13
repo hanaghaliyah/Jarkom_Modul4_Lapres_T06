@@ -230,7 +230,7 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 - KLIEN SIDOARJO <br>
 ![iface sidoarjo](https://user-images.githubusercontent.com/61286109/102000363-45d51000-3d19-11eb-86a9-00a6b3cfc818.PNG) <br>
 - KLIEN JOMBANG <br>
-![iface jombang](https://user-images.githubusercontent.com/61286109/102000351-3e156b80-3d19-11eb-83ea-17ff09d6ad62.PNG) <br>
+![iface jombang](https://user-images.githubusercontent.com/61286109/102011697-8fa11300-3d78-11eb-9638-f6f1eb12334d.PNG) <br>
 - KLIEN BOJONEGORO <br>
 ![iface bojonegoro](https://user-images.githubusercontent.com/61286109/102000368-48376a00-3d19-11eb-9326-46c19509c438.PNG) <br>
 - KLIEN NGANJUK <br>
@@ -255,8 +255,10 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 ![route kediri](https://user-images.githubusercontent.com/61286109/102002867-6742f580-3d33-11eb-9eb2-46d3281178c3.PNG)<br>
 
 #### Testing
-1. 
-2.
-3.
-4.
-5.
+1. Dari TULUNGAGUNG ping ke <b>its.ac.id</b>
+
+2. Dari BANYUWANGI ping ke <b>its.ac.id</b>
+3. Dari SIDOARJO ping ke <b>its.ac.id</b>
+4. Dari PROBOLINGGO ping ke <b>its.ac.id</b>
+5. Dari LUMAJANG ping ke <b>its.ac.id</b>
+6. Dari BOJONEGORO ping ke <b>its.ac.id</b>
