@@ -180,6 +180,11 @@ Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.0.13
 ```
 Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.168.1.1
 ```
+#### Testing
+- Ping dari PASURUAN (router) ke TULUNGAGUNG (client)
+- Ping dari KEDIRI (router) ke PROBOLINGGO (router) <br>
+<img width="284" alt="testing cpt" src="https://user-images.githubusercontent.com/26424136/102015149-60949c80-3d8c-11eb-94fe-51ff6738b982.PNG">
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
