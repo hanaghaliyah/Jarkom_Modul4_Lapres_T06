@@ -195,7 +195,7 @@ Hasil yang didapat adalah <b>Netmask /16</b> untuk subnet besar topologi diatas.
 
 #### Konfigurasi Pada Tiap UML
 1. Pertama, membuat file `topologi.sh`.<br>
-![Konfigurasi UML T6](https://user-images.githubusercontent.com/61286109/101959345-bad01900-3c37-11eb-88c9-2474700139ee.PNG) <br>
+![Konfigurasi UML T6](https://user-images.githubusercontent.com/61286109/102001540-03fe9680-3d26-11eb-8bfe-1762a7c4d335.PNG) <br>
 ![Konfigurasi2 UML T6](https://user-images.githubusercontent.com/61286109/101959482-fff44b00-3c37-11eb-9ccd-ff1f8017fc9a.PNG) <br>
 2. Pada semua UML Router, ke file `nano /etc/sysctl.conf` kemudian uncomment `net.ipv4.ip_forward=1` dan aktifkan dengan syntax `sysctl -p`.
 3. Lakukan setting interface pada semua UML di `nano /etc/network/interfaces` dan di restart dengan syntax `service networking restart`. <br>
